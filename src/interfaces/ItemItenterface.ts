@@ -1,7 +1,7 @@
 export interface ItemDTO{
     name: string
-    description: string
+    img_url: string
     price: number
     id: string
-    img_url: string
+    description: string
 }
